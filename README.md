@@ -1,5 +1,15 @@
 # 💫 About Me:
-🔭 Currently working on<br>Building production-ready full-stack applications using MERN & Next.js, while strengthening Data Structures & Algorithms for product-based roles.<br><br>🌱 Currently learning<br>Advanced DSA, system design fundamentals, and scalable backend architecture.<br><br>💼 What I bring<br>	•	Strong hands-on experience with React, Next.js, Node.js, MongoDB<br>	•	Practical knowledge of Redux Toolkit, Tailwind CSS, ShadCN UI<br>	•	Experience deploying real projects on Vercel & Netlify<br><br>🏆 Problem-Solving Highlights<br>	•	275+ problems solved on LeetCode<br>	•	99+ problems on GeeksforGeeks<br>	•	Max LeetCode Rating: 1641+<br>	•	Consistent practice following structured sheets (Striver-based approach)<br><br>💬 Ask me about<br>MERN stack development, DSA preparation strategy, or building scalable web applications.<br><br>⚡ Fun fact<br>Started with a Diploma in Electrical Engineering and transitioned into software development through disciplined self-learning and consistent problem-solving.
+Entry-level Machine Learning enthusiast with a strong foundation in Python and hands-on experience in building basic ML models. Actively strengthening ML fundamentals, data preprocessing, and model evaluation while maintaining a solid DSA background.
+
+ML Stack: Python, NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn
+
+Web Stack: React, Next.js, Node.js, MongoDB, Redux Toolkit, Tailwind CSS
+
+Problem Solving: 400+ DSA problems solved | LeetCode Max Rating: 1641
+
+Experienced in deploying projects on Vercel and Netlify
+
+Background in Electrical Engineering (Diploma) with a disciplined transition into software development and machine learning through consistent self-learning and structured practice.
 
 
 ## 🌐 Socials:
